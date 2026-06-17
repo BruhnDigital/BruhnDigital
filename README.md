@@ -1,6 +1,6 @@
 <div align="center">
 
-# BRUHNDIGITAL
+# BRUHN DIGITAL
 
 ### Webdesign • Softwareentwicklung • Digitale Lösungen
 
