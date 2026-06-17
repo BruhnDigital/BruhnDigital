@@ -1,44 +1,114 @@
-# 👋 Moin, ich bin CR7Ztv!
+<div align="center">
 
-## 🚀 BruhnDigital
+# BRUHNDIGITAL
 
-Webdesign, Landingpages, GitHub-Pages und individuelle digitale Lösungen.
+### Webdesign • Development • Digital Solutions
+
+Professionelle Webseiten, Landingpages und individuelle Lösungen für Unternehmen, Communities und digitale Projekte.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=BruhnDigital&style=for-the-badge&color=0e75b6" />
+
+</div>
 
 ---
 
-### 💼 Leistungen
+## 👋 Willkommen bei BruhnDigital
 
-- 🌐 Unternehmenswebseiten
-- 🎨 Landingpages & Kundenpräsentationen
-- ⚓ GitHub Pages Hosting
+Ich entwickle moderne Webseiten, digitale Präsentationen und individuelle Lösungen für Unternehmen und Communities.
+
+Der Fokus liegt auf:
+
+- 🌐 Professionellen Webseiten
+- 🚀 Landingpages & Kundenpräsentationen
 - 🎮 FiveM / QBCore Development
-- 💻 Individuelle Weblösungen
+- ⚙️ Individuellen Weblösungen
+- 📱 Responsive Design
 
 ---
 
-### 🛠️ Technologien
+## 🚀 Leistungen
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+### 🌐 Webdesign
 
----
+Moderne und responsive Webseiten für Unternehmen, Vereine und Projekte.
 
-### 📂 Aktuelle Projekte
+### 🎯 Landingpages
 
-🔹 Kunden-Landingpages
-🔹 FiveM / QBCore Ressourcen
-🔹 GitHub Pages Präsentationen
+Verkaufsstarke Präsentationen für Produkte, Dienstleistungen und Kundenprojekte.
 
----
+### 🎮 FiveM Development
 
-### 📍 Standort
+QBCore Ressourcen, UI-Anpassungen und individuelle Serverlösungen.
 
-Cuxhaven, Deutschland
+### ⚡ Deployment & Hosting
+
+GitHub Pages, statische Webseiten und professionelle Projektbereitstellung.
 
 ---
 
-### 📫 Kontakt
+## 🛠️ Tech Stack
 
-GitHub: https://github.com/BruhnDigital
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,lua,github,vscode" />
+
+</p>
+
+---
+
+## 💼 Aktuelle Projekte
+
+### ⚓ SEEKURS
+
+Moderne Bootsfahrschul-Landingpage mit Fokus auf Kundengewinnung und Conversion.
+
+### 🎮 QBCore Development
+
+Individuelle Ressourcen und Systeme für FiveM Communities.
+
+### 🌐 Kundenwebseiten
+
+Digitale Unternehmensauftritte und Landingpages.
+
+---
+
+## 📊 GitHub Aktivitäten
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BruhnDigital&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruhnDigital&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 📍 Standort
+
+🇩🇪 Cuxhaven, Niedersachsen
+
+---
+
+## 🤝 Zusammenarbeit
+
+Du benötigst eine:
+
+- Unternehmenswebseite
+- Landingpage
+- GitHub-Pages Präsentation
+- FiveM / QBCore Lösung
+
+Dann bist du hier richtig.
+
+---
+
+<div align="center">
+
+## BRUHNDIGITAL
+
+### Building modern digital experiences.
+
+</div>
