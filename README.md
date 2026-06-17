@@ -2,9 +2,9 @@
 
 # BRUHNDIGITAL
 
-### Webdesign • Development • Digital Solutions
+### Webdesign • Softwareentwicklung • Digitale Lösungen
 
-Professionelle Webseiten, Landingpages und individuelle Lösungen für Unternehmen, Communities und digitale Projekte.
+Professionelle Webseiten, individuelle Softwarelösungen und technische Umsetzung für Unternehmen, Communities und digitale Projekte.
 
 <br>
 
@@ -14,63 +14,77 @@ Professionelle Webseiten, Landingpages und individuelle Lösungen für Unternehm
 
 ---
 
-## 👋 Willkommen bei BruhnDigital
+## 👋 Über mich
 
-Ich entwickle moderne Webseiten, digitale Präsentationen und individuelle Lösungen für Unternehmen und Communities.
+Ich entwickle moderne Webseiten, digitale Plattformen und individuelle Softwarelösungen.
 
-Der Fokus liegt auf:
-
-- 🌐 Professionellen Webseiten
-- 🚀 Landingpages & Kundenpräsentationen
-- 🎮 FiveM / QBCore Development
-- ⚙️ Individuellen Weblösungen
-- 📱 Responsive Design
+Von der ersten Idee bis zur technischen Umsetzung entstehen leistungsfähige und professionelle Projekte für Unternehmen, Communities und Organisationen.
 
 ---
 
 ## 🚀 Leistungen
 
-### 🌐 Webdesign
+### 🌐 Webdesign & Webseiten
 
-Moderne und responsive Webseiten für Unternehmen, Vereine und Projekte.
+- Responsive Design
+- Landingpages
+- GitHub Pages
+- Kundenpräsentationen
+- Unternehmenswebseiten
 
-### 🎯 Landingpages
+### 💻 Softwareentwicklung
 
-Verkaufsstarke Präsentationen für Produkte, Dienstleistungen und Kundenprojekte.
+- APIs & Schnittstellen
+- Automatisierungen
+- Datenverarbeitung
+- Individuelle Webanwendungen
+- Maßgeschneiderte Lösungen
 
 ### 🎮 FiveM Development
 
-QBCore Ressourcen, UI-Anpassungen und individuelle Serverlösungen.
+- UI / UX Design
+- Serverentwicklung
+- Performance-Optimierung
+- Framework-Anpassungen
+- Eigene Ressourcen & Systeme
+- Individuelle Projektlösungen
+- Full-Stack FiveM Entwicklung
 
-### ⚡ Deployment & Hosting
+### ⚙️ Technische Umsetzung
 
-GitHub Pages, statische Webseiten und professionelle Projektbereitstellung.
+- GitHub
+- Deployment
+- Versionsverwaltung
+- Hosting & Infrastruktur
+- Wartung & Weiterentwicklung
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologien
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,lua,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,lua,nodejs,github,vscode" />
 </p>
 
 ---
 
-## 💼 Aktuelle Projekte
-
-### ⚓ SEEKURS
-
-Moderne Bootsfahrschul-Landingpage mit Fokus auf Kundengewinnung und Conversion.
-
-### 🎮 QBCore Development
-
-Individuelle Ressourcen und Systeme für FiveM Communities.
+## 💼 Projekte
 
 ### 🌐 Kundenwebseiten
 
-Digitale Unternehmensauftritte und Landingpages.
+Moderne und performante Webauftritte für Unternehmen und Dienstleister.
+
+### 📱 Landingpages
+
+Digitale Präsentationen mit Fokus auf Reichweite und Kundengewinnung.
+
+### 🚀 Individuelle Lösungen
+
+Entwicklung maßgeschneiderter Systeme für verschiedene Anwendungsbereiche.
+
+### 🎮 FiveM Projekte
+
+Umsetzung individueller Konzepte, Systeme und technischer Lösungen.
 
 ---
 
@@ -94,14 +108,16 @@ Digitale Unternehmensauftritte und Landingpages.
 
 ## 🤝 Zusammenarbeit
 
-Du benötigst eine:
+Unterstützung bei:
 
-- Unternehmenswebseite
-- Landingpage
-- GitHub-Pages Präsentation
-- FiveM / QBCore Lösung
-
-Dann bist du hier richtig.
+- Webseiten
+- Landingpages
+- GitHub Pages
+- Hosting
+- Automatisierungen
+- Softwareentwicklung
+- Technischen Lösungen
+- FiveM-Projekten jeder Größe
 
 ---
 
@@ -109,6 +125,8 @@ Dann bist du hier richtig.
 
 ## BRUHNDIGITAL
 
-### Building modern digital experiences.
+### Webdesign • Softwareentwicklung • Digitale Lösungen
+
+Building digital solutions that work.
 
 </div>
